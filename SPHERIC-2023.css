@@ -268,7 +268,7 @@
 }
 
 .u-section-3 .u-text-3 {
-  font-size: 1.875rem;
+  font-size: 1.5rem;
   margin: 1px auto 0;
 }
 
@@ -277,7 +277,7 @@
 }
 
 .u-section-3 .u-text-4 {
-  font-size: 1.875rem;
+  font-size: 1.5rem;
   margin: 1px auto 0;
 }
 
@@ -286,7 +286,7 @@
 }
 
 .u-section-3 .u-text-5 {
-  font-size: 1.875rem;
+  font-size: 1.5rem;
   margin: 1px auto 0;
 }
 
@@ -295,7 +295,7 @@
 }
 
 .u-section-3 .u-text-6 {
-  font-size: 1.875rem;
+  font-size: 1.5rem;
   margin: 1px auto 0;
 }
 
@@ -304,7 +304,7 @@
 }
 
 .u-section-3 .u-text-7 {
-  font-size: 1.875rem;
+  font-size: 1.5rem;
   margin: 1px auto 0;
 }
 
@@ -313,17 +313,16 @@
 }
 
 .u-section-3 .u-text-8 {
-  font-size: 1.875rem;
+  font-size: 1.5rem;
   margin: 1px auto 0;
 }
 
 .u-section-3 .u-text-9 {
-  font-size: 1.875rem;
-  margin: 75px 828px 0 50px;
+  margin: 65px 878px 0 0;
 }
 
 .u-section-3 .u-line-1 {
-  margin-top: 0;
+  margin-top: 10px;
   margin-bottom: 0;
   transform-origin: right center 0px;
 }
@@ -587,7 +586,6 @@
   .u-section-3 .u-text-9 {
     width: auto;
     margin-right: 691px;
-    margin-left: 0;
   }
 
   .u-section-3 .u-repeater-2 {
@@ -669,6 +667,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1304px;
+  }
+
   .u-section-3 .u-text-1 {
     font-size: 2.75rem;
   }
@@ -682,32 +684,38 @@
   }
 
   .u-section-3 .u-text-3 {
-    font-size: 1.5rem;
+    font-size: 1.125rem;
   }
 
   .u-section-3 .u-text-4 {
-    font-size: 1.5rem;
+    font-size: 1.125rem;
   }
 
   .u-section-3 .u-text-5 {
-    font-size: 1.5rem;
+    font-size: 1.125rem;
   }
 
   .u-section-3 .u-text-6 {
-    font-size: 1.5rem;
+    font-size: 1.125rem;
   }
 
   .u-section-3 .u-text-7 {
-    font-size: 1.5rem;
+    font-size: 1.125rem;
   }
 
   .u-section-3 .u-text-8 {
-    font-size: 1.5rem;
+    font-size: 1.125rem;
   }
 
   .u-section-3 .u-text-9 {
-    margin-right: 91px;
-    font-size: 1.5rem;
+    width: 249px;
+    margin-top: 63px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-3 .u-line-1 {
+    margin-top: 12px;
   }
 
   .u-section-3 .u-list-2 {
