@@ -330,7 +330,7 @@
 
 .u-section-3 .u-list-2 {
   width: 373px;
-  margin: 29px auto 0;
+  margin: 29px auto 60px;
 }
 
 .u-section-3 .u-repeater-2 {
@@ -517,11 +517,6 @@
 .u-section-3 .u-text-19 {
   margin-bottom: 0;
   margin-top: 0;
-}
-
-.u-section-3 .u-text-20 {
-  font-size: 0.75rem;
-  margin: 29px auto 14px 14px;
 }
 
 @media (max-width: 1199px) {
